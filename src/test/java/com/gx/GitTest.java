@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("hon-fix2");
         System.out.println("push test");
         System.out.println("yck test");
+        System.out.println("gitee test2");
+
     }
 }
