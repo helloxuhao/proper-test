@@ -10,6 +10,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("yck test");
         System.out.println("gitee test2");
-
+        System.out.println("远程仓库修改测试");
     }
 }
